@@ -52,3 +52,23 @@ The objective of this project is to efficiently and fairly distribute incoming u
 - setTopAstrologer(POST) ---> http://localhost:8086/api/connectUser
 - createUSER(POST) ---> http://localhost:8086/api/createUser
 - createASTROLOGER(POST) ---> http://localhost:8086/api/createAstrologer
+
+## Pages
+![grafanaDashBoard](https://github.com/ManishGupta03/gAstroAssignmentl2/assets/117648576/cf3cbfed-8347-4c3e-ab8f-b4776c20a3fa)
+![grafanaDashBoard-2](https://github.com/ManishGupta03/gAstroAssignmentl2/assets/117648576/ab8031ba-9bad-4644-997d-a4bd48d45138)
+
+# Grafana DashBoard
+
+![redisConnection](https://github.com/ManishGupta03/gAstroAssignmentl2/assets/117648576/d9f29562-4bbe-4070-b974-6affbba561e7)
+# Redis Connection
+
+![PrometheousDashboard](https://github.com/ManishGupta03/gAstroAssignmentl2/assets/117648576/f9a94279-fc46-43c3-8c6d-30d4120001b8)
+# Prometheous
+
+![dockerCenteralization2](https://github.com/ManishGupta03/gAstroAssignmentl2/assets/117648576/d665523b-732f-43a5-afd2-708f393262a3)
+
+# Docker Centarlized
+
+
+
+
